@@ -1,7 +1,5 @@
 # Transformer Study
 
-![Transformer](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Transformer_Attention_Head.svg/800px-Transformer_Attention_Head.svg.png)
-
 ## 📌 소개
 이 저장소는 **어텐션 메커니즘(Attention Mechanism)** 및 **트랜스포머(Transformer)** 구조를 쉽게 이해하기 위한 학습 자료를 제공합니다. 복잡한 개념을 단순화하여 설명하고 구현하는 것이 목표입니다.
 
